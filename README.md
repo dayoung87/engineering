@@ -6,7 +6,7 @@
 
 - 응집도
 User: 기능적 응집
-VideoApp: 절차적 응집
+\nVideoApp: 절차적 응집
 VideoServer: 기능적 응집
 VideoPlayer: 기능적 응집
 
